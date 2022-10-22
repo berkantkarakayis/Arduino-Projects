@@ -1,0 +1,11 @@
+Malzemeler
+Arduino
+
+QTR-8A Kýzýlötesi sensör
+
+2 Adet DC Motor ve Robot Þasesi veya hazýr
+robot kit alabilirsin.
+
+L298N veya l293b motor sürücü
+
+12V 500 mah civarý Batarya

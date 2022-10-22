@@ -1,0 +1,7 @@
+
+
+
+Projemizde kullanýlan potansiyometreler ile servo motorlarýna konum verilir ve konum verildikten sonra 
+bunu butona basarak arduinonun bu konumu öðrenmesi saðlanýr  bu konumlarý tek tek arduinonun hafýzasýna 
+girilir daha sonra bu çalýþtýr butonuna basýldýðýnda bu konumlar tek tek çalýþtýrýlarak robot kolun bu
+ hareketleri tekrarlamasý saðlanýr.
